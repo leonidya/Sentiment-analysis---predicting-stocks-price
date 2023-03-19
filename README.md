@@ -1,7 +1,6 @@
-# Sentiment-analysis---predicting-stocks-price
+## Research Question: "Can sentiment analysis of financial text data provide insight and predict increase or decrease of stock's price?" (Sentiment Analysis for Financial Data) 
 
-### Sentiment Analysis for Financial Data
-## Predicting decrease or increase in stock's price based on tweets sentiment analysis
+Predicting decrease or increase in stock's price based on tweets sentiment analysis
 In this project I'm going to train sentiment analysis models - in order to analyse the
 sentiment of financial data (tweets). Social media, news and professional opinion (financial analyst opinions) tend to inflect
 greatly on stocks prices, it's enogh for Elon Musk to tweet : "Twitter deal temporarily on
@@ -10,9 +9,7 @@ interent to train your own sentiment analysis model - the main goal of our resea
 The agenda is that a dedicated model, adjusted to the specific type of data you want to work with, even if it's small - will deal better with the task, than a more large but generic model. In this project I will train dedicated sentiment analysis model for financial data. In addition, I'll
 compare it's performance with models trained on generic data, make predictions and evaluate them, and finally make conclusions.
 
-## Research Question: "Can sentiment analysis of financial text data provide insight and predict increase or decrease of stock's price?"
-
-## About the Data:
+### About the Data:
 
 Training Data:
 
