@@ -126,7 +126,7 @@ RESULTS:
 
 ![image](https://user-images.githubusercontent.com/53173112/226355998-79e86f00-4f40-4b9d-a506-2ee059efd997.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226354160-884eb684-e0ba-40bf-a6cb-966ee75ecf88.png)
+
 
 I began by exploring whether sensitivity analysis has an impact on the stock price. I was aware beforehand that due to technical limitations and data constraints, it was unlikely that I would be able to draw definitive conclusions. Achieving such conclusions would have likely resulted in significant financial gain. However, I acknowledge that the information gathered can still be useful. My research serves as a foundation for future studies that can yield more conclusive findings. The main objective is to continue building upon my work to reach definitive outcomes in the future.
 
