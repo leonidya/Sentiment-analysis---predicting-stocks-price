@@ -125,8 +125,6 @@ RESULTS:
 
 ![image](https://user-images.githubusercontent.com/53173112/226354160-884eb684-e0ba-40bf-a6cb-966ee75ecf88.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226356078-ff354e4d-3bd7-4a84-90b0-292c12a0ad49.png)
-
 I began by exploring whether sensitivity analysis has an impact on the stock price. I was aware beforehand that due to technical limitations and data constraints, it was unlikely that I would be able to draw definitive conclusions. Achieving such conclusions would have likely resulted in significant financial gain. However, I acknowledge that the information we have gathered can still be useful. My research serves as a foundation for future studies that can yield more conclusive findings. The main objective is to continue building upon my work to reach definitive outcomes in the future.
 
 Findings have revealed that sensitivity analysis can provide valuable insights into the emotional and quantitative reactions of individuals throughout the week, which can be utilized by businesses to their advantage. For instance, companies can strategically time the release of their negative reports on Monday when there is heightened activity, and release positive news during the middle of the week. In the event of a significant management change, such as the resignation of a CEO, it is recommended that the company announce it on a Monday.
