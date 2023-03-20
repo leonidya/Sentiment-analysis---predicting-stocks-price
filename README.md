@@ -11,7 +11,8 @@ interent to train your own sentiment analysis model - the main goal of our resea
 The agenda is that a dedicated model, adjusted to the specific type of data you want to work with, even if it's small - will deal better with the task, than a more large but generic model. In this project I will train dedicated sentiment analysis model for financial data. In addition, I'll
 compare it's performance with models trained on generic data, make predictions and evaluate them, and finally make conclusions.
 
-![image](https://user-images.githubusercontent.com/53173112/226354721-e3c82caa-3ea7-41a9-a541-e99b36a4d17d.png)
+![image](https://user-images.githubusercontent.com/53173112/226362166-c60eeaa9-7a1f-4f3f-9ea0-69dbf2b266fc.png)
+
 
 ![image](https://user-images.githubusercontent.com/53173112/226354767-7b55e4bc-ab59-4956-812f-ba517a5104ef.png)
 
