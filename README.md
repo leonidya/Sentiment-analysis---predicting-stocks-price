@@ -133,4 +133,7 @@ Findings have revealed that sensitivity analysis can provide valuable insights i
 
 Furthermore, for financial analysts, it is advisable to refrain from publishing reports on Mondays, or at the very least, consider the optimistic sentiment that typically characterizes this day of the week. Waiting until the middle of the week may provide a more accurate picture of the company's situation, as there may be additional news or events that could impact the market sentiment. 
 
+Moreover, we can see the significance of effective foreign relations management for companies. My findings indicate that even when a company's share price experiences a sustained decline, positive reactions on social media platforms can offset the negative impact (Tesla -  Elon Musk). This suggests that companies that invest in enhancing their foreign relations, through effective leadership or other channels, can maintain a positive reputation, despite fluctuations in the stock market.
+
 Overall, research demonstrates the practical applications of sensitivity analysis, and the potential benefits it can offer to various stakeholders in the business world.
+
