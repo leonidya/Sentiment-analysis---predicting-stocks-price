@@ -88,49 +88,49 @@ This data is unlabeled, so the evaluation of the predictions will be according t
 prices on Yahoo finance.
 Total test data ~ 80K tweets
 
-![image](https://user-images.githubusercontent.com/53173112/226353042-dbb7a820-da6c-4cbd-9c60-4318b4c93041.png)
+![image](https://user-images.githubusercontent.com/53173112/226354977-37ad5055-daa5-4b52-81c1-ffd8600125be.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353260-84045f0a-a924-4173-836c-4a69d7b90c11.png)
+![image](https://user-images.githubusercontent.com/53173112/226355149-da8aaf86-7936-4b4e-9635-47b3075bb222.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353388-631e4289-8924-4703-9825-0c5f0a8c774c.png)
+![image](https://user-images.githubusercontent.com/53173112/226355207-38e802e4-35e6-49da-aca1-6742eb708c58.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353423-63b64813-4074-455d-a4df-d0de6d9a5aa6.png)
+![image](https://user-images.githubusercontent.com/53173112/226355295-764e7af4-de6e-4f14-862e-110cf1488235.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353449-2db98a49-3c1c-4214-be6a-fc97e8fc000c.png)
+![image](https://user-images.githubusercontent.com/53173112/226355342-c30d592b-d179-4a6e-99b2-ccde0bd6190f.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353485-ea14b180-a424-4dfa-9871-0fc48af43cfc.png)
+![image](https://user-images.githubusercontent.com/53173112/226355380-f0f200e5-5aae-4562-ac76-e512ca614fa5.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353523-f46d527b-68fb-4168-b7b0-c1c373ac90b2.png)
+![image](https://user-images.githubusercontent.com/53173112/226355433-c4440889-4ac5-4075-a8db-eccf49fc2485.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353568-19bb4062-6f7f-4895-b2d4-1a4e96d17b7e.png)
+![image](https://user-images.githubusercontent.com/53173112/226355511-52a3141d-304b-4104-88ec-0f10fe4e463d.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353623-e0a214b2-af93-4ba5-9856-f113c54f07f5.png)
+![image](https://user-images.githubusercontent.com/53173112/226355548-87ac4862-0d8b-4c2d-881f-3f187c383b53.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353666-0b4b5da5-ed52-494a-bc5e-6ddfd13ed57f.png)
+![image](https://user-images.githubusercontent.com/53173112/226355585-0abcb417-bfe8-42ef-9c4a-8db2723e061f.png)
+
 
 RESULTS:
 
-![image](https://user-images.githubusercontent.com/53173112/226353828-7259f821-b976-4700-bd03-5271b1429bfe.png)
+![image](https://user-images.githubusercontent.com/53173112/226355667-cf334091-69db-4368-b196-1f36a3c5c787.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353879-27ea8354-23be-487f-87d7-dc89e8238c6e.png)
+![image](https://user-images.githubusercontent.com/53173112/226355741-a1a1720a-cc02-4a38-8c7b-4b075029de5c.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353919-72fc3ce7-8c2b-4f2d-973b-7dd95ae45ab2.png)
+![image](https://user-images.githubusercontent.com/53173112/226355794-49965dec-62b3-47ad-a6ba-e6f9c6b3ae37.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353931-f14db6c1-eedc-4084-8c09-07b2d674751d.png)
+![image](https://user-images.githubusercontent.com/53173112/226355896-a76d124c-0437-4c0a-80ef-743a584daf90.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226353962-29dd4f40-c7ea-4d50-8d76-88d7ff90abda.png)
+![image](https://user-images.githubusercontent.com/53173112/226355943-7f521c3c-ea90-4c85-9f1d-46bb0764b4e9.png)
 
-![image](https://user-images.githubusercontent.com/53173112/226354005-05db6961-f9c1-4100-958f-ea4265ed7f82.png)
+![image](https://user-images.githubusercontent.com/53173112/226355998-79e86f00-4f40-4b9d-a506-2ee059efd997.png)
 
 ![image](https://user-images.githubusercontent.com/53173112/226354160-884eb684-e0ba-40bf-a6cb-966ee75ecf88.png)
 
+![image](https://user-images.githubusercontent.com/53173112/226356078-ff354e4d-3bd7-4a84-90b0-292c12a0ad49.png)
 
+I began by exploring whether sensitivity analysis has an impact on the stock price. I was aware beforehand that due to technical limitations and data constraints, it was unlikely that I would be able to draw definitive conclusions. Achieving such conclusions would have likely resulted in significant financial gain. However, I acknowledge that the information we have gathered can still be useful. My research serves as a foundation for future studies that can yield more conclusive findings. The main objective is to continue building upon my work to reach definitive outcomes in the future.
 
+Findings have revealed that sensitivity analysis can provide valuable insights into the emotional and quantitative reactions of individuals throughout the week, which can be utilized by businesses to their advantage. For instance, companies can strategically time the release of their negative reports on Monday when there is heightened activity, and release positive news during the middle of the week. In the event of a significant management change, such as the resignation of a CEO, it is recommended that the company announce it on a Monday.
 
+Furthermore, for financial analysts, it is advisable to refrain from publishing reports on Mondays, or at the very least, consider the optimistic sentiment that typically characterizes this day of the week. Waiting until the middle of the week may provide a more accurate picture of the company's situation, as there may be additional news or events that could impact the market sentiment. 
 
-
-
-
-
-
-
+Overall, research demonstrates the practical applications of sensitivity analysis, and the potential benefits it can offer to various stakeholders in the business world.
